@@ -12,7 +12,7 @@ int main() {
 	int n = 25;
 	Test(Ls, n);
 	vector<double> vec{ 2.3,22.3,16.5,44.4,1.0 };
-	double m = 16.5;
+	double m = 14.5;
 	Test(vec, m);
 	//TestVector();
 	return 0;
