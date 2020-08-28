@@ -15,5 +15,6 @@ int main() {
 	double m = 14.5;
 	Test(vec, m);
 	//TestVector();
+	cout<<"\n OK!";
 	return 0;
 }
